@@ -1,0 +1,2 @@
+# Dialogue_history_with_the_generated_AI
+生成AIとのやり取りの履歴を掲載しています
