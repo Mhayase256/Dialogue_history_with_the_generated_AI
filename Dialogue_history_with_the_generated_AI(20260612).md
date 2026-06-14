@@ -1,4 +1,4 @@
-2026-03-24
+__2026-03-24__
 + Interacting with Generative AI
   + Microsoft Copilot
 
@@ -104,7 +104,7 @@ A.
 
 ****
 
-2026-03-25
+__2026-03-25__
 + Interacting with Generative AI
   + Microsoft Copilot
 Q.
@@ -234,7 +234,7 @@ A.
 
 ****
 
-2026-06-04
+__2026-06-04__
 + Interacting with Generative AI
   + Microsoft Copilot
 
@@ -394,7 +394,7 @@ A.
 
 ****
 
-2026-06-14
+__2026-06-14__
 + Interacting with Generative AI
   + ChatGPT
 
